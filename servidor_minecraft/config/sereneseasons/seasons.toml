@@ -42,7 +42,7 @@
 #min_thunder_time is the minimum time interval between thunder events in ticks. Set to -1 to disable thunder.
 #max_thunder_time is the maximum time interval between thunder events in ticks. Set to -1 to disable thunder.
 [[season_properties]]
-	season = "MID_WINTER"
+	season = "LATE_WINTER"
 	melt_percent = 0.0
 	melt_rolls = 0
 	biome_temp_adjustment = -0.8
@@ -52,18 +52,8 @@
 	max_thunder_time = -1
 
 [[season_properties]]
-	season = "EARLY_AUTUMN"
-	melt_percent = 12.5
-	melt_rolls = 1
-	biome_temp_adjustment = 0.0
-	min_rain_time = 12000
-	max_rain_time = 180000
-	min_thunder_time = 12000
-	max_thunder_time = 180000
-
-[[season_properties]]
-	season = "LATE_SUMMER"
-	melt_percent = 25.0
+	season = "MID_SPRING"
+	melt_percent = 8.33
 	melt_rolls = 1
 	biome_temp_adjustment = 0.0
 	min_rain_time = 12000
@@ -72,18 +62,8 @@
 	max_thunder_time = 180000
 
 [[season_properties]]
-	season = "EARLY_WINTER"
-	melt_percent = 0.0
-	melt_rolls = 0
-	biome_temp_adjustment = -0.8
-	min_rain_time = 12000
-	max_rain_time = 36000
-	min_thunder_time = -1
-	max_thunder_time = -1
-
-[[season_properties]]
-	season = "LATE_SPRING"
-	melt_percent = 12.5
+	season = "EARLY_SUMMER"
+	melt_percent = 25.0
 	melt_rolls = 1
 	biome_temp_adjustment = 0.0
 	min_rain_time = 12000
@@ -102,6 +82,16 @@
 	max_thunder_time = 180000
 
 [[season_properties]]
+	season = "EARLY_WINTER"
+	melt_percent = 0.0
+	melt_rolls = 0
+	biome_temp_adjustment = -0.8
+	min_rain_time = 12000
+	max_rain_time = 36000
+	min_thunder_time = -1
+	max_thunder_time = -1
+
+[[season_properties]]
 	season = "MID_AUTUMN"
 	melt_percent = 8.33
 	melt_rolls = 1
@@ -112,18 +102,18 @@
 	max_thunder_time = 180000
 
 [[season_properties]]
-	season = "EARLY_SUMMER"
-	melt_percent = 25.0
-	melt_rolls = 1
-	biome_temp_adjustment = 0.0
+	season = "MID_WINTER"
+	melt_percent = 0.0
+	melt_rolls = 0
+	biome_temp_adjustment = -0.8
 	min_rain_time = 12000
-	max_rain_time = 96000
-	min_thunder_time = 12000
-	max_thunder_time = 180000
+	max_rain_time = 36000
+	min_thunder_time = -1
+	max_thunder_time = -1
 
 [[season_properties]]
-	season = "MID_SPRING"
-	melt_percent = 8.33
+	season = "MID_SUMMER"
+	melt_percent = 25.0
 	melt_rolls = 1
 	biome_temp_adjustment = 0.0
 	min_rain_time = 12000
@@ -142,22 +132,32 @@
 	max_thunder_time = 180000
 
 [[season_properties]]
-	season = "LATE_WINTER"
-	melt_percent = 0.0
-	melt_rolls = 0
-	biome_temp_adjustment = -0.8
-	min_rain_time = 12000
-	max_rain_time = 36000
-	min_thunder_time = -1
-	max_thunder_time = -1
-
-[[season_properties]]
-	season = "MID_SUMMER"
+	season = "LATE_SUMMER"
 	melt_percent = 25.0
 	melt_rolls = 1
 	biome_temp_adjustment = 0.0
 	min_rain_time = 12000
 	max_rain_time = 96000
+	min_thunder_time = 12000
+	max_thunder_time = 180000
+
+[[season_properties]]
+	season = "LATE_SPRING"
+	melt_percent = 12.5
+	melt_rolls = 1
+	biome_temp_adjustment = 0.0
+	min_rain_time = 12000
+	max_rain_time = 96000
+	min_thunder_time = 12000
+	max_thunder_time = 180000
+
+[[season_properties]]
+	season = "EARLY_AUTUMN"
+	melt_percent = 12.5
+	melt_rolls = 1
+	biome_temp_adjustment = 0.0
+	min_rain_time = 12000
+	max_rain_time = 180000
 	min_thunder_time = 12000
 	max_thunder_time = 180000
 
