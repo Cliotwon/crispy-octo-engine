@@ -189,6 +189,12 @@
     },
     "done": true
   },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-06-19 16:06:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-06-19 15:46:49 +0000"
@@ -575,6 +581,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-06-19 16:06:02 +0000",
       "minecraft:zombie": "2025-06-19 15:51:28 +0000",
       "minecraft:zombie_villager": "2025-06-19 15:47:54 +0000"
     },
@@ -655,6 +662,12 @@
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-06-19 15:44:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-19 16:06:02 +0000"
     },
     "done": true
   },
@@ -775,6 +788,12 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-06-19 15:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-19 16:06:02 +0000"
     },
     "done": true
   },
@@ -1307,6 +1326,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/chandelier": {
+    "criteria": {
+      "has_string": "2025-06-19 16:06:02 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/fairy_light": {
     "criteria": {
       "has_iron": "2025-06-19 15:53:39 +0000"
@@ -1334,6 +1359,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-06-19 15:53:26 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/spearhead_pennant": {
+    "criteria": {
+      "has_string": "2025-06-19 16:06:02 +0000"
     },
     "done": true
   },
@@ -1574,6 +1605,12 @@
   "vinery:recipes/big_table": {
     "criteria": {
       "has_iron_ingot": "2025-06-19 15:53:39 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/swallowtail_pennant": {
+    "criteria": {
+      "has_string": "2025-06-19 16:06:02 +0000"
     },
     "done": true
   },
@@ -1997,6 +2034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-19 16:06:02 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/sandwich": {
     "criteria": {
       "has_bread": "2025-06-19 15:44:40 +0000"
@@ -2150,6 +2193,12 @@
   "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-06-19 15:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-19 16:06:02 +0000"
     },
     "done": true
   },
@@ -2789,6 +2838,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/square_pennant": {
+    "criteria": {
+      "has_string": "2025-06-19 16:06:02 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/brick_stove": {
     "criteria": {
       "has_iron_ingot": "2025-06-19 15:53:39 +0000"
@@ -3011,6 +3066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-19 16:06:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-06-19 15:53:39 +0000"
@@ -3176,6 +3237,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-06-19 15:32:41 +0000",
+      "porkchop": "2025-06-19 16:00:16 +0000",
       "bread": "2025-06-19 15:56:29 +0000",
       "melon_slice": "2025-06-19 15:51:37 +0000"
     },
@@ -3289,6 +3351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-19 16:06:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-19 14:56:04 +0000"
@@ -3376,6 +3444,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-19 15:00:21 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/triangle_pennant": {
+    "criteria": {
+      "has_string": "2025-06-19 16:06:02 +0000"
     },
     "done": true
   },
