@@ -878,9 +878,21 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-19 15:54:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
     "criteria": {
       "has_oak_planks": "2025-06-19 15:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-19 15:49:26 +0000"
     },
     "done": true
   },
@@ -1073,6 +1085,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-06-19 15:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-19 15:49:26 +0000"
     },
     "done": true
   },
@@ -1473,6 +1491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-19 15:54:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2025-06-19 15:40:10 +0000"
@@ -1506,6 +1530,12 @@
   "refurbished_furniture:recipes/misc/constructing/post_box": {
     "criteria": {
       "has_planks": "2025-06-19 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-06-19 15:50:21 +0000"
     },
     "done": true
   },
@@ -2268,6 +2298,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-06-19 15:19:27 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-19 15:54:46 +0000"
     },
     "done": true
   },
@@ -3291,6 +3327,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-06-19 15:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-06-19 15:44:25 +0000"
@@ -3436,6 +3478,12 @@
     },
     "done": false
   },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-19 15:54:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_planks": "2025-06-19 15:02:58 +0000"
@@ -3505,6 +3553,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
     "criteria": {
       "has_spruce_planks": "2025-06-19 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-19 15:54:46 +0000"
     },
     "done": true
   },
