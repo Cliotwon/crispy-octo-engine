@@ -28,6 +28,7 @@
       "minecraft:frozen_river": "2025-06-19 15:27:25 +0000",
       "minecraft:snowy_plains": "2025-06-18 22:32:38 +0000",
       "minecraft:snowy_taiga": "2025-06-19 14:55:39 +0000",
+      "minecraft:frozen_ocean": "2025-06-19 18:03:02 +0000",
       "minecraft:snowy_beach": "2025-06-19 15:02:53 +0000"
     },
     "done": false
@@ -2740,6 +2741,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-06-19 18:04:24 +0000",
       "minecraft:creeper": "2025-06-19 15:25:07 +0000",
       "minecraft:zombie": "2025-06-19 16:27:05 +0000"
     },
@@ -4134,6 +4136,62 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
       "has_cobbled_deepslate_slab": "2025-06-19 17:42:30 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_bamboo": {
+    "criteria": {
+      "has_slashblade_wood": "2025-06-19 18:07:54 +0000",
+      "has_the_recipe": "2025-06-19 18:07:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/orotiagito_sealed": {
+    "criteria": {
+      "has_proudsoul": "2025-06-19 18:07:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/agito": {
+    "criteria": {
+      "has_proudsoul": "2025-06-19 18:07:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/tagayasan": {
+    "criteria": {
+      "has_slashblade_wood": "2025-06-19 18:07:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_white": {
+    "criteria": {
+      "has_slashblade_wood": "2025-06-19 18:07:54 +0000",
+      "has_the_recipe": "2025-06-19 18:07:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-19 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/fluorescent_bar": {
+    "criteria": {
+      "has_proudsoul": "2025-06-19 18:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-19 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_wood": {
+    "criteria": {
+      "crafting": "2025-06-19 18:07:54 +0000"
     },
     "done": true
   },

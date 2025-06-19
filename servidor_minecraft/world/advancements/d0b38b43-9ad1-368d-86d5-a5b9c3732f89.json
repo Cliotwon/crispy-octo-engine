@@ -3601,6 +3601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-19 17:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-06-19 17:27:42 +0000"
@@ -3670,6 +3676,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-19 17:10:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-19 17:55:02 +0000"
     },
     "done": true
   },
@@ -3787,6 +3799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-19 17:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-19 17:10:40 +0000"
@@ -3802,6 +3820,12 @@
   "handcrafted:recipes/misc/diorite_corner_trim": {
     "criteria": {
       "has_diorite_corner_trim": "2025-06-19 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2025-06-19 17:49:44 +0000"
     },
     "done": true
   },
@@ -3841,6 +3865,12 @@
     },
     "done": true
   },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2025-06-19 18:08:15 +0000"
+    },
+    "done": true
+  },
   "intensehorror:thriller": {
     "criteria": {
       "thriller": "2025-06-19 17:37:20 +0000"
@@ -3862,6 +3892,12 @@
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-06-19 16:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-19 17:55:02 +0000"
     },
     "done": true
   },
@@ -3925,9 +3961,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-19 17:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-19 17:10:40 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-06-19 18:04:52 +0000"
     },
     "done": true
   },
@@ -4016,6 +4064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-19 17:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-06-19 17:05:24 +0000"
@@ -4025,6 +4079,12 @@
   "slashblade:recipes/combat/slashblade_wood": {
     "criteria": {
       "has_the_recipe": "2025-06-19 17:47:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/garlic_finder": {
+    "criteria": {
+      "has_redstone": "2025-06-19 17:55:02 +0000"
     },
     "done": true
   },
@@ -4067,6 +4127,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-06-19 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-19 17:55:02 +0000"
     },
     "done": true
   },
