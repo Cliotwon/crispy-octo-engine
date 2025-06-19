@@ -2159,6 +2159,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-19 17:21:32 +0000",
       "minecraft:spider": "2025-06-19 16:06:02 +0000",
       "minecraft:zombie": "2025-06-19 15:51:28 +0000",
       "minecraft:zombie_villager": "2025-06-19 15:47:54 +0000"
@@ -3581,9 +3582,28 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-19 17:21:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-06-19 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_bamboo": {
+    "criteria": {
+      "has_slashblade_wood": "2025-06-19 17:47:11 +0000",
+      "has_the_recipe": "2025-06-19 17:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-19 17:27:42 +0000"
     },
     "done": true
   },
@@ -3617,6 +3637,12 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/orotiagito_sealed": {
+    "criteria": {
+      "has_proudsoul": "2025-06-19 17:47:24 +0000"
+    },
+    "done": true
+  },
   "scguns:main/sulfur_chunk": {
     "criteria": {
       "sulfur_chunk": "2025-06-19 16:44:01 +0000"
@@ -3647,9 +3673,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-19 17:27:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-19 17:10:40 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:the_horror_has_arrived": {
+    "criteria": {
+      "the_horror_has_arrived": "2025-06-19 17:32:22 +0000"
     },
     "done": true
   },
@@ -3671,9 +3709,21 @@
     },
     "done": true
   },
+  "intensehorror:chainsaw_massacre": {
+    "criteria": {
+      "chainsaw_massacre": "2025-06-19 17:36:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-19 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-19 17:27:42 +0000"
     },
     "done": true
   },
@@ -3743,6 +3793,12 @@
     },
     "done": true
   },
+  "intensehorror:no_more_experiments": {
+    "criteria": {
+      "no_more_experiments": "2025-06-19 17:40:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/diorite_corner_trim": {
     "criteria": {
       "has_diorite_corner_trim": "2025-06-19 17:11:40 +0000"
@@ -3752,6 +3808,12 @@
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2025-06-19 17:13:51 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/agito": {
+    "criteria": {
+      "has_proudsoul": "2025-06-19 17:47:24 +0000"
     },
     "done": true
   },
@@ -3770,6 +3832,18 @@
   "mcwwindows:recipes/deepslate": {
     "criteria": {
       "has_wood": "2025-06-19 17:10:40 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-06-19 17:47:50 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:thriller": {
+    "criteria": {
+      "thriller": "2025-06-19 17:37:20 +0000"
     },
     "done": true
   },
@@ -3797,6 +3871,12 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/tagayasan": {
+    "criteria": {
+      "has_slashblade_wood": "2025-06-19 17:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-19 17:10:40 +0000"
@@ -3806,6 +3886,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-19 17:10:40 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2025-06-19 17:48:20 +0000"
     },
     "done": true
   },
@@ -3845,6 +3931,12 @@
     },
     "done": true
   },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-06-19 17:48:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-19 17:10:40 +0000"
@@ -3854,6 +3946,13 @@
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2025-06-19 17:13:51 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_white": {
+    "criteria": {
+      "has_slashblade_wood": "2025-06-19 17:47:11 +0000",
+      "has_the_recipe": "2025-06-19 17:47:11 +0000"
     },
     "done": true
   },
@@ -3875,6 +3974,12 @@
     },
     "done": true
   },
+  "slashblade_addon:recipes/combat/fluorescent_bar": {
+    "criteria": {
+      "has_proudsoul": "2025-06-19 17:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-19 17:10:40 +0000"
@@ -3893,6 +3998,18 @@
     },
     "done": true
   },
+  "intensehorror:survived_the_nightmare": {
+    "criteria": {
+      "survived_the_nightmare": "2025-06-19 17:41:52 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_wood": {
+    "criteria": {
+      "crafting": "2025-06-19 17:47:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-06-19 16:59:13 +0000"
@@ -3905,9 +4022,21 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/slashblade_wood": {
+    "criteria": {
+      "has_the_recipe": "2025-06-19 17:47:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-19 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-06-19 17:36:36 +0000"
     },
     "done": true
   },
@@ -3920,6 +4049,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-19 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:sweet_victory": {
+    "criteria": {
+      "sweet_victory": "2025-06-19 17:36:57 +0000"
     },
     "done": true
   },
